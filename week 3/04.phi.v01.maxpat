@@ -394,7 +394,7 @@
 						}
 ,
 						"classnamespace" : "box",
-						"rect" : [ 98.0, 309.0, 319.0, 237.0 ],
+						"rect" : [ 100.0, 303.0, 319.0, 237.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -1381,7 +1381,7 @@
 ,
 		"dependency_cache" : [ 			{
 				"name" : "phi.polyCore.v01.maxpat",
-				"bootpath" : "~/Desktop/fall2022/sound-synth-tech/week 4",
+				"bootpath" : "~/Documents/myClasses/sound-synth-tech/week 3",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
