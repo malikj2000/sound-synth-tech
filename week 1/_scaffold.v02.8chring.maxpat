@@ -55,8 +55,8 @@
 					"maxclass" : "newobj",
 					"numinlets" : 0,
 					"numoutlets" : 0,
-					"patching_rect" : [ 41.0, 87.0, 137.0, 22.0 ],
-					"text" : "mj.sound.out.v01.stereo"
+					"patching_rect" : [ 41.0, 87.0, 143.0, 22.0 ],
+					"text" : "mj.sound.out.v02.8chring"
 				}
 
 			}
@@ -88,7 +88,7 @@
 				"implicit" : 1
 			}
 , 			{
-				"name" : "mj.sound.out.v01.stereo.maxpat",
+				"name" : "mj.sound.out.v02.8chring.maxpat",
 				"bootpath" : "~/Documents/myClasses/sound-synth-tech/week 1",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
